@@ -3,10 +3,11 @@
 Let us use ruby to explore data provided by http://opendata.dc.gov/ to answers a few of the following questions
 
 For February of 2016
-1. How many parking tickets were issued in February of 2016? 
-2. What was the most common parking ticket? 
+
+1. How many parking tickets were issued in February of 2016?
+2. What was the most common parking ticket?
 3. What state license plate gets the most tickets?
-4. How fast would we be going if we were to add all speeding tickets together? 
+4. How fast would we be going if we were to add all speeding tickets together?
 5. Which state has the best drivers?
 6. When are you most likely to get a parking ticket on 14th street?
 7. Other than speeding what is the most common moving violation?
