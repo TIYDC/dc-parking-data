@@ -1,4 +1,4 @@
-# Slog through DC Parking and Moving Violations
+# Node Parking
 
 Let us use ruby to explore data provided by http://opendata.dc.gov/ to answers a few of the following questions
 
@@ -14,7 +14,9 @@ For February of 2016
 6. When are you most likely to get a parking ticket on 14th street?
 7. Other than speeding what is the most common moving violation?
 
+Next Level
 
-Once these are complete, repeat for the conclusion of all datasets. Anything that we don't get to in class shall be homework
+Establish these same conclusions across all the data that is provided.  Not just for each month but for all of 2016.
 
-You can submit your homework to russell {at} theironyard.com
+
+
